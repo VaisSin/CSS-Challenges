@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif
+}
+body {
+    width: 100%;
+}
+.footer {
+    height: 100%;
+}
+.heading{
+    height: 60%;
+    position: relative;
+    padding-left: 50px;
+}
+h2 {
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    box-sizing: border-box;
+    margin-top: auto;
+}
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    height: 40%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
